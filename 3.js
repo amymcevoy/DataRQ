@@ -1,0 +1,2 @@
+colors = ["yellow", "green", "red"];
+
